@@ -2,13 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d3f3f17-fcb7-4d19-b6f4-3b3b92a05461" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uoj_1009.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1001/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1001/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1001/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1001/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1001/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1001/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1001/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1001/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1001/UOJ_1001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1001/UOJ_1001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1002/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1002/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1002/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1002/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1002/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1002/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1002/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1002/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1002/UOJ_1002.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1002/UOJ_1002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1003/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1003/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1003/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1003/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1003/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1003/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1003/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1003/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1003/UOJ_1003.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1003/UOJ_1003.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1004/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1004/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1004/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1004/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1004/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1004/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1004/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1004/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1004/UOJ_1004.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1004/UOJ_1004.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1005/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1005/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1005/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1005/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1005/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1005/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1005/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1005/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1005/UOJ_1005.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1005/UOJ_1005.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1006/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1006/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1006/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1006/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1006/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1006/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1006/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1006/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1006/UOJ_1006.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1006/UOJ_1006.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1007/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1007/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1007/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1007/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1007/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1007/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1007/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1007/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1007/UOJ_1007.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1007/UOJ_1007.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1008/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1008/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1008/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1008/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1008/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1008/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1008/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1008/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1008/UOJ_1008.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1008/UOJ_1008.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1010/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1010/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1010/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1010/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1010/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1010/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1010/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1010/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1010/UOJ_1010.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1010/UOJ_1010.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1011/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1011/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1011/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1011/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1011/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1011/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1011/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1011/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1011/UOJ_1011.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1011/UOJ_1011.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1012/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1012/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1012/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1012/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1012/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1012/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1012/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1012/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1012/UOJ_1012.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1012/UOJ_1012.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1013/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1013/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1013/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1013/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1013/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1013/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1013/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1013/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1013/UOJ_1013.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1013/UOJ_1013.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1014/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1014/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1014/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1014/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1014/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1014/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1014/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1014/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1014/UOJ_1014.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1014/UOJ_1014.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1015/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1015/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1015/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1015/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1015/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1015/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1015/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1015/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UOJ_1015/UOJ_1015.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../UOJ_1015/UOJ_1015.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +79,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,12 +90,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/silva/repositorio/p.o.o-e-est-de-dados/UOJ_1009"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
